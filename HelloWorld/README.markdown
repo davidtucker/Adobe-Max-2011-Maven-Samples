@@ -3,7 +3,7 @@ Flex-Mojos Hello World Application
 
 Your first Flex-Mojos application can be up and running in a matter of minutes.  First, please be sure you've followed the correct setup to get the needed repositories in your settings.xml file for Maven.  This is needed so that your Maven installation knows where to find Flex-mojos.  Once that is in place, you can follow these steps to get up and running with your first project.  The source code for the completed project is found in this directory as well.
 
-## Run the Archetype to Create Your Project
+Run the Archetype to Create Your Project
 
 ```
 mvn archetype:generate -DarchetypeRepository=http://repository.sonatype.org/content/groups/flexgroup/ -DarchetypeGroupId=org.sonatype.flexmojos -DarchetypeArtifactId=flexmojos-archetypes-application -DarchetypeVersion=3.9
