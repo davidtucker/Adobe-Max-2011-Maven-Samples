@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<s:ItemRenderer xmlns:fx="http://ns.adobe.com/mxml/2009"
+				xmlns:s="library://ns.adobe.com/flex/spark"
+				xmlns:mx="library://ns.adobe.com/flex/mx"
+				autoDrawBackground="false"
+				width="196"
+				height="40">
+
+	<fx:Metadata>
+		[Event(name="close", type="flash.events.Event")]
+	</fx:Metadata>
+
+	<fx:Script>
+		<![CDATA[
+			import mx.events.ItemClickEvent;
+
+			protected function closeImage_clickHandler(event:MouseEvent):void
+			{
+				dispatchEvent(new ItemClickEvent(ItemClickEvent.ITEM_CLICK, true, false, this.data as String));
+			}
+		]]>
+	</fx:Script>
+
+
+	<s:states>
+		<s:State name="normal"/>
+		<s:State name="hovered"/>
+		<s:State name="selected"/>
+	</s:states>
+
+	<s:Rect width="178"
+			height="40"
+			x="0"
+			y="0"
+			includeIn="selected">
+		<s:fill>
+			<s:SolidColor color="0xA17604"
+						  alpha="1"/>
+		</s:fill>
+	</s:Rect>
+
+	<s:Path data="M 0 0
+			L 178 0
+			L 196 20
+			L 178 40
+			L 0 40
+			Z"
+			includeIn="selected">
+		<s:fill>
+			<s:SolidColor color="0xA17604" />
+		</s:fill>
+	</s:Path>
+
+	<mx:Image id="closeImage"
+			  source="@Embed(source='/closeButton.png')"
+			  includeIn="selected"
+			  verticalCenter="0"
+			  left="4"
+			  click="closeImage_clickHandler(event)"
+			  buttonMode="true"
+			  useHandCursor="true"/>
+
+	<s:Label left="20"
+			 right="25"
+			 textAlign="right"
+			 fontSize="18"
+			 color="0xFFFFFF"
+			 color.hovered="0xCCCCCC"
+			 text="{data}"
+			 verticalCenter="0"/>
+
+</s:ItemRenderer>
