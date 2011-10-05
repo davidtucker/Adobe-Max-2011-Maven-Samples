@@ -67,7 +67,7 @@ package net.davidtucker.max.twitter.translator
 		public function testSeparateUsernameName():void
 		{
 			var result:Array = translator.separateUsernameName( USERNAME_NAME_1 );
-			Assert.assertTrue( result is Array );
+			Assert.assertTrue( false );
 			Assert.assertEquals( result.length, 2 );
 			Assert.assertEquals( result[0], "AdrianPomilio" );
 			Assert.assertEquals( result[1], "Adrian Pomilio" );
