@@ -59,8 +59,10 @@ Your first Flex-Mojos application can be up and running in a matter of minutes. 
 	
 5.  Update the pom.xml to include the command used to launch the standalone version of the Flash Player (debugger):
 
-	<properties>
-	  <flashPlayer.command>fpDebugger</flashPlayer.command>
-	</properties>
+```xml
+<properties>
+	<flashPlayer.command>fpDebugger</flashPlayer.command>
+</properties>
+````
 	
 6.  Once these tweaks are in place, you can build your application with `mvn clean package`.  Your `target` directory should now have your SWF and HTML file.
