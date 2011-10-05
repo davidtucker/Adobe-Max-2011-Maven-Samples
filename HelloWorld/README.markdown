@@ -9,7 +9,7 @@ Your first Flex-Mojos application can be up and running in a matter of minutes. 
 mvn archetype:generate -DarchetypeRepository=http://repository.sonatype.org/content/groups/flexgroup/ -DarchetypeGroupId=org.sonatype.flexmojos -DarchetypeArtifactId=flexmojos-archetypes-application -DarchetypeVersion=3.9
 ```
 
-## Update the pom.xml to include the correct version of the Flex SDK:
+Update the pom.xml to include the correct version of the Flex SDK:
 
 ```
     <dependency>
@@ -20,7 +20,7 @@ mvn archetype:generate -DarchetypeRepository=http://repository.sonatype.org/cont
     </dependency>
 ```
 
-## Update the pom.xml to include the correct compiler version for the SDK you included:
+Update the pom.xml to include the correct compiler version for the SDK you included:
 
 ```
     <plugin>
@@ -39,7 +39,7 @@ mvn archetype:generate -DarchetypeRepository=http://repository.sonatype.org/cont
     </plugin>
 ```
 
-## Update the pom.xml to include the HTML wrapper for your Flex application:
+Update the pom.xml to include the HTML wrapper for your Flex application:
 
 ```
 	<plugin>
@@ -65,7 +65,7 @@ mvn archetype:generate -DarchetypeRepository=http://repository.sonatype.org/cont
 	</plugin>
 ```
 
-## Update the pom.xml to include the command used to launch the standalone version of the Flash Player (debugger):
+Update the pom.xml to include the command used to launch the standalone version of the Flash Player (debugger):
 
 ```
 	<properties>
