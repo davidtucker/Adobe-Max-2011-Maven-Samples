@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<s:Application xmlns:fx="http://ns.adobe.com/mxml/2009"
+					   xmlns:s="library://ns.adobe.com/flex/spark"
+					   xmlns:mx="library://ns.adobe.com/flex/mx"
+					   backgroundColor="#333333"
+					   minWidth="800"
+					   minHeight="600"
+					   creationComplete="this_creationCompleteHandler(event);">
+
+	<fx:Script>
+		<![CDATA[
+			import mx.collections.ArrayCollection;
+			import mx.controls.Alert;
+			import mx.core.EventPriority;
+			import mx.events.FlexEvent;
+			import mx.events.ItemClickEvent;
+			import mx.rpc.AsyncToken;
+			import mx.rpc.Responder;
+			import mx.rpc.events.FaultEvent;
+			import mx.rpc.events.ResultEvent;
+
+			import net.davidtucker.max.twitter.business.ITwitterSearchDelegate;
+			import net.davidtucker.max.twitter.business.TwitterSearchDelegate;
+			import net.davidtucker.max.twitter.translator.TwitterSearchTranslator;
+			import net.davidtucker.max.twitter.view.SearchResultView;
+			import net.davidtucker.max.twitter.view.renderers.TermItemRenderer;
+			import net.davidtucker.max.twitter.vo.TwitterSearch;
+
+			import spark.components.NavigatorContent;
+			
+			//------------------------------------------------------------
+			// PROTECTED variables
+			//------------------------------------------------------------
+
+			protected var delegate:ITwitterSearchDelegate=getTwitterSearchDelegate();
+
+			protected var tokenToTerm:Dictionary=new Dictionary();
+			
+			[Bindable]
+			protected var terms:ArrayCollection=new ArrayCollection();
+
+			//------------------------------------------------------------
+			// PROTECTED methods
+			//------------------------------------------------------------
+			
+			protected function this_creationCompleteHandler(event:FlexEvent):void
+			{
+				searchTerms.addEventListener(ItemClickEvent.ITEM_CLICK, searchTerms_closeHandler);
+			}
+			
+			/**
+			 * This method uses conditional compilation to assign either the Mock delegate or the actual
+			 * service delegate as the delegate we will be using.  For more information on conditional
+			 * compilation, please read this:
+			 *
+			 * http://livedocs.adobe.com/flex/3/html/help.html?content=compilers_21.html
+			 */
+			protected function getTwitterSearchDelegate():ITwitterSearchDelegate
+			{
+				var delegate:ITwitterSearchDelegate = new TwitterSearchDelegate();
+				/*
+				if (CONFIG::mockServices)
+				{
+					delegate=new net.davidtucker.max.twitter.business.MockTwitterSearchDelegate();
+				}
+				else
+				{
+					delegate=new TwitterSearchDelegate();
+				}
+				*/
+
+				return delegate;
+			}
+
+			/**
+			 * Kicks off the process of fetching the search results from Twitter.
+			 */
+			protected function search(searchTerm:String):void
+			{
+				searchTerm=searchTermInput.text;
+				var token:AsyncToken=delegate.searchTwitter([searchTerm]);
+				tokenToTerm[token]=searchTerm;
+				token.addResponder(new mx.rpc.Responder(delegate_resultHandler, delegate_faultHandler));
+				searchTermInput.text="";
+			}
+			
+			protected function search2(searchTerm:String):void
+			{
+				searchTerm=searchTermInput.text;
+				var token:AsyncToken=delegate.searchTwitter([searchTerm]);
+				tokenToTerm[token]=searchTerm;
+				token.addResponder(new mx.rpc.Responder(delegate_resultHandler, delegate_faultHandler));
+				searchTermInput.text="";
+			}
+			
+			protected function search3(searchTerm:String):void
+			{
+				searchTerm=searchTermInput.text;
+				var token:AsyncToken=delegate.searchTwitter([searchTerm]);
+				tokenToTerm[token]=searchTerm;
+				token.addResponder(new mx.rpc.Responder(delegate_resultHandler, delegate_faultHandler));
+				searchTermInput.text="";
+			}
+
+			/**
+			 * This method is called if the data from twitter has been loaded successfully.
+			 *
+			 * @param event The result event from the HTTPService
+			 */
+			protected function delegate_resultHandler(event:ResultEvent):void
+			{
+				var translator:TwitterSearchTranslator=new TwitterSearchTranslator();
+				var searchResult:TwitterSearch=TwitterSearch(translator.translateTwitterSearch(event.result as XML));
+
+				var searchTerm:String=tokenToTerm[event.token];
+				delete tokenToTerm[event.token];
+
+				var content:NavigatorContent=new NavigatorContent();
+				content.label=searchTerm;
+
+				var resultView:SearchResultView=new SearchResultView();
+				resultView.results=new ArrayCollection(searchResult.entries);
+				content.addElement(resultView);
+				resultsStack.addChild(content);
+
+
+				terms.addItem(searchTerm);
+
+				setDefaultSelectedIndex();
+			}
+			
+			/**
+			 * This method is called if the data failed to be retrieved from the Teitter service.
+			 *
+			 * @param event The fault event from the HTTPService
+			 */
+			protected function delegate_faultHandler(event:FaultEvent):void
+			{
+				mx.controls.Alert.show(event.fault.faultDetail, "Fault");
+			}
+
+
+			protected function setDefaultSelectedIndex():void
+			{
+				if (searchTerms.selectedIndex == -1)
+				{
+					searchTerms.selectedIndex = 0;
+				}
+			}
+
+			protected function searchTerms_closeHandler(event:ItemClickEvent):void
+			{
+				var termIndex:int=terms.getItemIndex(event.label);
+				terms.removeItemAt(termIndex);
+				resultsStack.removeElementAt(termIndex);
+				
+				focusManager.setFocus( searchTermInput );
+				
+				setDefaultSelectedIndex();
+			}
+			
+		]]>
+	</fx:Script>
+
+	<s:layout>
+		<s:BasicLayout/>
+	</s:layout>
+
+	<s:Rect width="180"
+			height="100%"
+			x="0"
+			y="0"
+			alpha="1">
+		<s:fill>
+			<s:LinearGradient rotation="90">
+				<s:GradientEntry alpha="1.0"
+								 color="0x5C5C5C"/>
+				<s:GradientEntry alpha="0"
+								 color="0x5C5C5C"/>
+			</s:LinearGradient>
+		</s:fill>
+	</s:Rect>
+
+	<s:Scroller left="198"
+				right="0"
+				top="0"
+				bottom="0">
+
+		<s:Group width="100%"
+				 height="100%">
+
+			<mx:ViewStack id="resultsStack"
+						  width="100%"
+						  height="100%"
+						  selectedIndex="{ searchTerms.selectedIndex }" />
+		</s:Group>
+
+	</s:Scroller>
+
+	<s:TextInput id="searchTermInput"
+				 x="10"
+				 y="10"
+				 width="160"
+				 height="28"
+				 skinClass="net.davidtucker.max.twitter.skins.TextInputSkin"
+				 enter="search( searchTermInput.text );"/>
+
+	<s:List id="searchTerms"
+			x="0"
+			y="48"
+			width="198"
+			dataProvider="{ terms }"
+			itemRenderer="net.davidtucker.max.twitter.view.renderers.TermItemRenderer"
+			skinClass="net.davidtucker.max.twitter.skins.EntryListSkin"/>
+	
+</s:Application>
