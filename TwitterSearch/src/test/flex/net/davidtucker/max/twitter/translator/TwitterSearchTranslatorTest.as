@@ -1,4 +1,5 @@
 package net.davidtucker.max.twitter.translator
+{package net.davidtucker.max.twitter.translator
 {
 	import com.adobe.utils.DateUtil;
 	
@@ -20,19 +21,19 @@ package net.davidtucker.max.twitter.translator
 			return new XML( xmlString );
 		}
 		
-		[Embed(source='/searchResults.xml',mimeType='application/octet-stream')]
+		[Embed(source='/data/searchResults.xml',mimeType='application/octet-stream')]
 		private static const SEARCH_RESULT_EMEBEDDED_DATA:Class;
 		
-		[Embed(source='/entry1.xml',mimeType='application/octet-stream')]
+		[Embed(source='/data/entry1.xml',mimeType='application/octet-stream')]
 		private static const ENTRY_1_EMBEDDED_DATA:Class;
 		
-		[Embed(source='/entry2.xml',mimeType='application/octet-stream')]
+		[Embed(source='/data/entry2.xml',mimeType='application/octet-stream')]
 		private static const ENTRY_2_EMBEDDED_DATA:Class;
 		
-		[Embed(source='/author1.xml',mimeType='application/octet-stream')]
+		[Embed(source='/data/author1.xml',mimeType='application/octet-stream')]
 		private static const AUTHOR_1_EMBEDDED_DATA:Class;
 		
-		[Embed(source='/author2.xml',mimeType='application/octet-stream')]
+		[Embed(source='/data/author2.xml',mimeType='application/octet-stream')]
 		private static const AUTHOR_2_EMBEDDED_DATA:Class;
 		
 		private static var SEARCH_RESULT_XML:XML = getXMLFromClass( SEARCH_RESULT_EMEBEDDED_DATA );
@@ -176,6 +177,12 @@ package net.davidtucker.max.twitter.translator
 			Assert.assertEquals( author.name, "nithiljose" );
 			Assert.assertEquals( author.url, "http://twitter.com/nithiljose" );
 		}
+
+	}
+}
+	
+	public class TwitterSearchTranslatorTest
+	{	
 
 	}
 }
