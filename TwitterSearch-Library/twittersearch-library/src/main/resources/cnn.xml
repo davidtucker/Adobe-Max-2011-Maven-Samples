@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:google="http://base.google.com/ns/1.0" xml:lang="en-US" xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:twitter="http://api.twitter.com/">
+  <id>tag:search.twitter.com,2005:search/cnn</id>
+  <link type="text/html" href="http://search.twitter.com/search?q=cnn" rel="alternate"/>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=cnn" rel="self"/>
+  <title>cnn - Twitter Search</title>
+  <link type="application/opensearchdescription+xml" href="http://search.twitter.com/opensearch.xml" rel="search"/>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=cnn&amp;since_id=27982941255" rel="refresh"/>
+  <twitter:warning>since_id removed for pagination.</twitter:warning>
+  <updated>2010-10-21T01:13:10Z</updated>
+  <openSearch:itemsPerPage>15</openSearch:itemsPerPage>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?max_id=27982941255&amp;page=2&amp;q=cnn" rel="next"/>
+  <entry>
+    <id>tag:search.twitter.com,2005:27982941255</id>
+    <published>2010-10-21T01:13:10Z</published>
+    <link type="text/html" href="http://twitter.com/hakumura/statuses/27982941255" rel="alternate"/>
+    <title>RT @ishidaian: &#20170;&#12398;&#26085;&#26412;&#12395;&#12289;&#23398;&#29983;&#36939;&#21205;&#12387;&#12390;&#12394;&#12356;&#12424;&#12397;&#12539;&#12539;&#12539;&#12290;&#23398;&#29983;&#22243;&#20307;&#12398;&#26997;&#12417;&#12390;&#24179;&#21644;&#30340;&#35380;&#12360;&#12364;&#12381;&#12428;&#12395;&#20195;&#26367;&#12377;&#12427;&#12398;&#12363;&#12394;&#65311;CNN.co.jp&#65306;&#20175;&#12391;&#24180;&#37329;&#25913;&#38761;&#21453;&#23550;&#12398;&#12487;&#12514;&#32154;&#12367;&#12289;&#39640;&#26657;&#29983;&#12418;&#23398;&#26657;&#20241;&#12435;&#12391;&#21442;&#21152; http://t.co/Zs74ljz via @cnn_co_jp</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/ishidaian&quot;&gt;@ishidaian&lt;/a&gt;: &#20170;&#12398;&#26085;&#26412;&#12395;&#12289;&#23398;&#29983;&#36939;&#21205;&#12387;&#12390;&#12394;&#12356;&#12424;&#12397;&#12539;&#12539;&#12539;&#12290;&#23398;&#29983;&#22243;&#20307;&#12398;&#26997;&#12417;&#12390;&#24179;&#21644;&#30340;&#35380;&#12360;&#12364;&#12381;&#12428;&#12395;&#20195;&#26367;&#12377;&#12427;&#12398;&#12363;&#12394;&#65311;CNN.co.jp&#65306;&#20175;&#12391;&#24180;&#37329;&#25913;&#38761;&#21453;&#23550;&#12398;&#12487;&#12514;&#32154;&#12367;&#12289;&#39640;&#26657;&#29983;&#12418;&#23398;&#26657;&#20241;&#12435;&#12391;&#21442;&#21152; &lt;a href=&quot;http://t.co/Zs74ljz&quot;&gt;http://t.co/Zs74ljz&lt;/a&gt; via &lt;a href=&quot;http://twitter.com/cnn_co_jp&quot;&gt;@cnn_co_jp&lt;/a&gt;</content>
+    <updated>2010-10-21T01:13:10Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/878301450/hakumura_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/tweetbutton&quot; rel=&quot;nofollow&quot;&gt;Tweet Button&lt;/a&gt;</twitter:source>
+    <twitter:lang>ja</twitter:lang>
+    <author>
+      <name>hakumura (&#30333;&#26449;&#12288;&#38596;&#22826;)</name>
+      <uri>http://twitter.com/hakumura</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:27982941037</id>
+    <published>2010-10-21T01:13:10Z</published>
+    <link type="text/html" href="http://twitter.com/Virgil4u/statuses/27982941037" rel="alternate"/>
+    <title>RT @ObamaWire: Ugandan paper publishes gay 'hit list' - Uganda's gay population is living in fear after a paper published a list of... http://ow.ly/19yqm8</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/ObamaWire&quot;&gt;@ObamaWire&lt;/a&gt;: Ugandan paper publishes gay &amp;apos;hit list&amp;apos; - Uganda&amp;apos;s gay population is living in fear after a paper published a list of... &lt;a href=&quot;http://ow.ly/19yqm8&quot;&gt;http://ow.ly/19yqm8&lt;/a&gt;</content>
+    <updated>2010-10-21T01:13:10Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/1111116395/purpleidbadge_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>Virgil4u (Virgil C. Robinson)</name>
+      <uri>http://twitter.com/Virgil4u</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:27982938973</id>
+    <published>2010-10-21T01:13:09Z</published>
+    <link type="text/html" href="http://twitter.com/Roxane20618/statuses/27982938973" rel="alternate"/>
+    <title>854 CNN Chile says no reports of damage so far</title>
+    <content type="html">854 &lt;b&gt;CNN&lt;/b&gt; Chile says no reports of damage so far</content>
+    <updated>2010-10-21T01:13:09Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/1148135651/96997444627748_100693883312082_100001144113961_3413_7124536_n_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>Roxane20618 (Roxane Ferrence)</name>
+      <uri>http://twitter.com/Roxane20618</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:27982936264</id>
+    <published>2010-10-21T01:13:07Z</published>
+    <link type="text/html" href="http://twitter.com/tskywalker/statuses/27982936264" rel="alternate"/>
+    <title>Man accused of assaulting airline passenger - http://bit.ly/9RHq0I #cnn</title>
+    <content type="html">Man accused of assaulting airline passenger - &lt;a href=&quot;http://bit.ly/9RHq0I&quot;&gt;http://bit.ly/9RHq0I&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23cnn&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#cnn');&quot;&gt;#&lt;b&gt;cnn&lt;/b&gt;&lt;/a&gt;</content>
+    <updated>2010-10-21T01:13:07Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/352495999/twitterProfilePhoto_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>tskywalker (samuel)</name>
+      <uri>http://twitter.com/tskywalker</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:27982933210</id>
+    <published>2010-10-21T01:13:04Z</published>
+    <link type="text/html" href="http://twitter.com/Dezlez/statuses/27982933210" rel="alternate"/>
+    <title>RT @cnnbrk: 10 infants dead in California whooping cough outbreak http://on.cnn.com/axA4Oy</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/cnnbrk&quot;&gt;@cnnbrk&lt;/a&gt;: 10 infants dead in California whooping cough outbreak &lt;a href=&quot;http://on.cnn.com/axA4Oy&quot;&gt;http://on.&lt;b&gt;cnn&lt;/b&gt;.com/axA4Oy&lt;/a&gt;</content>
+    <updated>2010-10-21T01:13:04Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/1082409217/Alex_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>Dezlez (My name is Xander yo)</name>
+      <uri>http://twitter.com/Dezlez</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:27982932545</id>
+    <published>2010-10-21T01:13:04Z</published>
+    <link type="text/html" href="http://twitter.com/JonChan02/statuses/27982932545" rel="alternate"/>
+    <title>RT @AndersonCooper: Beat 360&#176; 10/20/10 http://bit.ly/cAe057</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/AndersonCooper&quot;&gt;@AndersonCooper&lt;/a&gt;: Beat 360&#176; 10/20/10 &lt;a href=&quot;http://bit.ly/cAe057&quot;&gt;http://bit.ly/cAe057&lt;/a&gt;</content>
+    <updated>2010-10-21T01:13:04Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/1138383549/59a701a6-fa03-48f0-9bf0-633a137ec8cc_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitterfeed.com&quot; rel=&quot;nofollow&quot;&gt;twitterfeed&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>JonChan02 (Robin Couch)</name>
+      <uri>http://twitter.com/JonChan02</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:27982932531</id>
+    <published>2010-10-21T01:13:04Z</published>
+    <link type="text/html" href="http://twitter.com/shalenewynn/statuses/27982932531" rel="alternate"/>
+    <title>Gina Torres : Five reasons to save Huge - CNN http://uxp.in/19378642</title>
+    <content type="html">Gina Torres : Five reasons to save Huge - &lt;b&gt;CNN&lt;/b&gt; &lt;a href=&quot;http://uxp.in/19378642&quot;&gt;http://uxp.in/19378642&lt;/a&gt;</content>
+    <updated>2010-10-21T01:13:04Z</updated>
+    <link type="image/png" href="http://s.twimg.com/a/1287010001/images/default_profile_4_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.askbiography.com&quot; rel=&quot;nofollow&quot;&gt;AskBiography - News&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>shalenewynn (shalen ewynn)</name>
+      <uri>http://twitter.com/shalenewynn</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:27982930052</id>
+    <published>2010-10-21T01:13:02Z</published>
+    <link type="text/html" href="http://twitter.com/seaicilin/statuses/27982930052" rel="alternate"/>
+    <title>RT @cnnbrk: The Hartley 2 #comet should be visible to the naked eye when it makes its closest pass to Earth tonight. http://on.cnn.com/9mT9s8</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/cnnbrk&quot;&gt;@cnnbrk&lt;/a&gt;: The Hartley 2 &lt;a href=&quot;http://search.twitter.com/search?q=%23comet&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#comet');&quot;&gt;#comet&lt;/a&gt; should be visible to the naked eye when it makes its closest pass to Earth tonight. &lt;a href=&quot;http://on.cnn.com/9mT9s8&quot;&gt;http://on.&lt;b&gt;cnn&lt;/b&gt;.com/9mT9s8&lt;/a&gt;</content>
+    <updated>2010-10-21T01:13:02Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1146306922/sunglasses_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>seaicilin (Jackie )</name>
+      <uri>http://twitter.com/seaicilin</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:27982927704</id>
+    <published>2010-10-21T01:13:00Z</published>
+    <link type="text/html" href="http://twitter.com/LAMelody/statuses/27982927704" rel="alternate"/>
+    <title>@CNN :  The public clearly heard which of the candidates knows the constitution.  It is not Ms. O'Donnell.  Typical Tea Party dumbness.</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/CNN&quot;&gt;@&lt;b&gt;CNN&lt;/b&gt;&lt;/a&gt; :  The public clearly heard which of the candidates knows the constitution.  It is not Ms. O&amp;apos;Donnell.  Typical Tea Party dumbness.</content>
+    <updated>2010-10-21T01:13:00Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/143898947/Momma_10c_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>LAMelody (LAMelody)</name>
+      <uri>http://twitter.com/LAMelody</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:27982925266</id>
+    <published>2010-10-21T01:12:58Z</published>
+    <link type="text/html" href="http://twitter.com/Ipstenu/statuses/27982925266" rel="alternate"/>
+    <title>RT @cnnbrk: 10 infants dead in California whooping cough outbreak http://on.cnn.com/axA4Oy</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/cnnbrk&quot;&gt;@cnnbrk&lt;/a&gt;: 10 infants dead in California whooping cough outbreak &lt;a href=&quot;http://on.cnn.com/axA4Oy&quot;&gt;http://on.&lt;b&gt;cnn&lt;/b&gt;.com/axA4Oy&lt;/a&gt;</content>
+    <updated>2010-10-21T01:12:58Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/416436547/question-hamner_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>Ipstenu (Ipstenu)</name>
+      <uri>http://twitter.com/Ipstenu</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:27982923661</id>
+    <published>2010-10-21T01:12:57Z</published>
+    <link type="text/html" href="http://twitter.com/Rosalina78054/statuses/27982923661" rel="alternate"/>
+    <title>854 CNN Chile says no reports of damage so far</title>
+    <content type="html">854 &lt;b&gt;CNN&lt;/b&gt; Chile says no reports of damage so far</content>
+    <updated>2010-10-21T01:12:57Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/1148135337/90581641127748_100693893312081_100001144113961_3414_6160107_n_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>Rosalina78054 (Rosalina Cavender)</name>
+      <uri>http://twitter.com/Rosalina78054</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:27982922867</id>
+    <published>2010-10-21T01:12:56Z</published>
+    <link type="text/html" href="http://twitter.com/sclanham/statuses/27982922867" rel="alternate"/>
+    <title>RT @absolutspacegrl: RT @cnnbrk: The Hartley 2 #comet should be visible to the naked eye when it makes its closest pass to Earth tonight http://on.cnn.com/9mT9s8</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/absolutspacegrl&quot;&gt;@absolutspacegrl&lt;/a&gt;: RT &lt;a href=&quot;http://twitter.com/cnnbrk&quot;&gt;@cnnbrk&lt;/a&gt;: The Hartley 2 &lt;a href=&quot;http://search.twitter.com/search?q=%23comet&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#comet');&quot;&gt;#comet&lt;/a&gt; should be visible to the naked eye when it makes its closest pass to Earth tonight &lt;a href=&quot;http://on.cnn.com/9mT9s8&quot;&gt;http://on.&lt;b&gt;cnn&lt;/b&gt;.com/9mT9s8&lt;/a&gt;</content>
+    <updated>2010-10-21T01:12:56Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1096060750/bjjlegion-fb-1-small_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.osfoora.com&quot; rel=&quot;nofollow&quot;&gt;Osfoora for iPhone&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>sclanham (Scott C. Lanham)</name>
+      <uri>http://twitter.com/sclanham</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:27982922029</id>
+    <published>2010-10-21T01:12:55Z</published>
+    <link type="text/html" href="http://twitter.com/albo75/statuses/27982922029" rel="alternate"/>
+    <title>ju ju ju algunitos se les va a caer la careta con ese reportaje de CNN</title>
+    <content type="html">ju ju ju algunitos se les va a caer la careta con ese reportaje de &lt;b&gt;CNN&lt;/b&gt;</content>
+    <updated>2010-10-21T01:12:55Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/1120483631/tetra_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>es</twitter:lang>
+    <author>
+      <name>albo75 (albo75)</name>
+      <uri>http://twitter.com/albo75</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:27982916281</id>
+    <published>2010-10-21T01:12:51Z</published>
+    <link type="text/html" href="http://twitter.com/Rebecka22066/statuses/27982916281" rel="alternate"/>
+    <title>854 CNN Chile says no reports of damage so far</title>
+    <content type="html">854 &lt;b&gt;CNN&lt;/b&gt; Chile says no reports of damage so far</content>
+    <updated>2010-10-21T01:12:51Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/1148134940/196341246831408_103456486369220_100001146081021_33605_3443445_n_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>Rebecka22066 (Rebecka Arvie)</name>
+      <uri>http://twitter.com/Rebecka22066</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:27982915217</id>
+    <published>2010-10-21T01:12:50Z</published>
+    <link type="text/html" href="http://twitter.com/cherryteresa/statuses/27982915217" rel="alternate"/>
+    <title>RT @BaltimoreGal: RT @OTOOLEFAN: @caradox Thanks again Jenny McCarthy! @cnnbrk 10 infants dead in California whooping cough outbreak http://on.cnn.com/axA4Oy</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/BaltimoreGal&quot;&gt;@BaltimoreGal&lt;/a&gt;: RT &lt;a href=&quot;http://twitter.com/OTOOLEFAN&quot;&gt;@OTOOLEFAN&lt;/a&gt;: &lt;a href=&quot;http://twitter.com/caradox&quot;&gt;@caradox&lt;/a&gt; Thanks again Jenny McCarthy! &lt;a href=&quot;http://twitter.com/cnnbrk&quot;&gt;@cnnbrk&lt;/a&gt; 10 infants dead in California whooping cough outbreak &lt;a href=&quot;http://on.cnn.com/axA4Oy&quot;&gt;http://on.&lt;b&gt;cnn&lt;/b&gt;.com/axA4Oy&lt;/a&gt;</content>
+    <updated>2010-10-21T01:12:50Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1120122026/glow-look-up_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.ubertwitter.com/bb/download.php&quot; rel=&quot;nofollow&quot;&gt;&#220;berTwitter&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>cherryteresa (cherryteresa)</name>
+      <uri>http://twitter.com/cherryteresa</uri>
+    </author>
+  </entry>
+</feed>

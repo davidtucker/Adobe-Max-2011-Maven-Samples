@@ -1,0 +1,316 @@
+<feed xmlns:google="http://base.google.com/ns/1.0" xml:lang="en-US" xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:twitter="http://api.twitter.com/">
+  <id>tag:search.twitter.com,2005:search/random</id>
+  <link type="text/html" href="http://search.twitter.com/search?q=random" rel="alternate"/>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=random" rel="self"/>
+  <title>random - Twitter Search</title>
+  <link type="application/opensearchdescription+xml" href="http://search.twitter.com/opensearch.xml" rel="search"/>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=random&amp;since_id=27983145783" rel="refresh"/>
+  <twitter:warning>since_id removed for pagination.</twitter:warning>
+  <updated>2010-10-21T01:15:50Z</updated>
+  <openSearch:itemsPerPage>15</openSearch:itemsPerPage>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?max_id=27983145783&amp;page=2&amp;q=random" rel="next"/>
+  <entry>
+    <id>tag:search.twitter.com,2005:27983145783</id>
+    <published>2010-10-21T01:15:50Z</published>
+    <link type="text/html" href="http://twitter.com/I_BEEN_A_BOSS/statuses/27983145783" rel="alternate"/>
+    <title>#Random I want Fully Loaded Fries from Checkers</title>
+    <content type="html">&lt;a href=&quot;http://search.twitter.com/search?q=%23Random&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#Random');&quot;&gt;#&lt;b&gt;Random&lt;/b&gt;&lt;/a&gt; I want Fully Loaded Fries from Checkers</content>
+    <updated>2010-10-21T01:15:50Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/1146877961/194641378_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.ubertwitter.com/bb/download.php&quot; rel=&quot;nofollow&quot;&gt;&#220;berTwitter&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>I_BEEN_A_BOSS (718 Bo$$ Bitch)</name>
+      <uri>http://twitter.com/I_BEEN_A_BOSS</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:27983144259</id>
+    <published>2010-10-21T01:15:49Z</published>
+    <link type="text/html" href="http://twitter.com/TheeSickPupFan/statuses/27983144259" rel="alternate"/>
+    <title>Kinsey. A girl I hardly talk to told me I'm her new random best friend. Okay, let's party! Rofl.</title>
+    <content type="html">Kinsey. A girl I hardly talk to told me I&amp;apos;m her new &lt;b&gt;random&lt;/b&gt; best friend. Okay, let&amp;apos;s party! Rofl.</content>
+    <updated>2010-10-21T01:15:49Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1148987486/2478570403_e608cc7505_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;/devices&quot; rel=&quot;nofollow&quot;&gt;txt&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>TheeSickPupFan (Tanisha.)</name>
+      <uri>http://twitter.com/TheeSickPupFan</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:27983143871</id>
+    <published>2010-10-21T01:15:48Z</published>
+    <link type="text/html" href="http://twitter.com/Sparklezstars/statuses/27983143871" rel="alternate"/>
+    <title>RT Often+Follow 2 enter 2 win a @MODEcosmetics pink beauty item! Winner chosen at random.Think + Wear Pink in October to support #BCAM</title>
+    <content type="html">RT Often+Follow 2 enter 2 win a &lt;a href=&quot;http://twitter.com/MODEcosmetics&quot;&gt;@MODEcosmetics&lt;/a&gt; pink beauty item! Winner chosen at &lt;b&gt;random&lt;/b&gt;.Think + Wear Pink in October to support &lt;a href=&quot;http://search.twitter.com/search?q=%23BCAM&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#BCAM');&quot;&gt;#BCAM&lt;/a&gt;</content>
+    <updated>2010-10-21T01:15:48Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/1119817107/IMG_0312_normal.JPG" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>Sparklezstars (Kathleen)</name>
+      <uri>http://twitter.com/Sparklezstars</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:27983140474</id>
+    <published>2010-10-21T01:15:46Z</published>
+    <link type="text/html" href="http://twitter.com/hjackson01/statuses/27983140474" rel="alternate"/>
+    <title>RT @ericvictorino: Dear Makers Of Automatic-Flush Toilets, I don't like random water splashing on my asshole. Please flush AFTER I'm done making potty.</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/ericvictorino&quot;&gt;@ericvictorino&lt;/a&gt;: Dear Makers Of Automatic-Flush Toilets, I don&amp;apos;t like &lt;b&gt;random&lt;/b&gt; water splashing on my asshole. Please flush AFTER I&amp;apos;m done making potty.</content>
+    <updated>2010-10-21T01:15:46Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1133722402/eBYBvzRJ_normal" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>hjackson01 (Haley Jackson)</name>
+      <uri>http://twitter.com/hjackson01</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:27983139966</id>
+    <published>2010-10-21T01:15:45Z</published>
+    <link type="text/html" href="http://twitter.com/AllstarMN/statuses/27983139966" rel="alternate"/>
+    <title>@xoSaraAllstarxo hahah yes we do! &lt;3 im so excited to see them on tour again! (hahah this is my random thought)</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/xoSaraAllstarxo&quot;&gt;@xoSaraAllstarxo&lt;/a&gt; hahah yes we do! &amp;lt;3 im so excited to see them on tour again! (hahah this is my &lt;b&gt;random&lt;/b&gt; thought)</content>
+    <updated>2010-10-21T01:15:45Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1096003994/mz_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>AllstarMN (B R I L Y N N :))</name>
+      <uri>http://twitter.com/AllstarMN</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:27983138466</id>
+    <published>2010-10-21T01:15:44Z</published>
+    <link type="text/html" href="http://twitter.com/CoriDior/statuses/27983138466" rel="alternate"/>
+    <title>@JordyTodosey Hey, just seeing if you really do reply to your random fans tweets. X3</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/JordyTodosey&quot;&gt;@JordyTodosey&lt;/a&gt; Hey, just seeing if you really do reply to your &lt;b&gt;random&lt;/b&gt; fans tweets. X3</content>
+    <updated>2010-10-21T01:15:44Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1112018922/image_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>CoriDior (Cori Werner)</name>
+      <uri>http://twitter.com/CoriDior</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:27983132860</id>
+    <published>2010-10-21T01:15:40Z</published>
+    <link type="text/html" href="http://twitter.com/ShellyBellyLove/statuses/27983132860" rel="alternate"/>
+    <title>@nickjonas random question time...who was the first person you talked to today/what did you say?</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/nickjonas&quot;&gt;@nickjonas&lt;/a&gt; &lt;b&gt;random&lt;/b&gt; question time...who was the first person you talked to today/what did you say?</content>
+    <updated>2010-10-21T01:15:40Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/1111945385/twitter_pic_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>ShellyBellyLove (Michelle)</name>
+      <uri>http://twitter.com/ShellyBellyLove</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:27983132068</id>
+    <published>2010-10-21T01:15:39Z</published>
+    <link type="text/html" href="http://twitter.com/FUimCjay/statuses/27983132068" rel="alternate"/>
+    <title>RT @Madeline_etc: Just got that random henessy smell in my nose for like half a second....#weirdthingsthataccourfrequently</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/Madeline_etc&quot;&gt;@Madeline_etc&lt;/a&gt;: Just got that &lt;b&gt;random&lt;/b&gt; henessy smell in my nose for like half a second....&lt;a href=&quot;http://search.twitter.com/search?q=%23weirdthingsthataccourfrequently&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#weirdthingsthataccourfrequently');&quot;&gt;#weirdthingsthataccourfrequently&lt;/a&gt;</content>
+    <updated>2010-10-21T01:15:39Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1143337906/cjaylovesboobies_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.ubertwitter.com/bb/download.php&quot; rel=&quot;nofollow&quot;&gt;&#220;berTwitter&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>FUimCjay (Cjay Boardman)</name>
+      <uri>http://twitter.com/FUimCjay</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:27983131558</id>
+    <published>2010-10-21T01:15:39Z</published>
+    <link type="text/html" href="http://twitter.com/devhiie_tan/statuses/27983131558" rel="alternate"/>
+    <title>RT @blogdokter: Tahukah anda kalau orang yang kelihatan begitu tegar hatinya, adalah orang yang sangat lemah dan butuh pertolongan? #random</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/blogdokter&quot;&gt;@blogdokter&lt;/a&gt;: Tahukah anda kalau orang yang kelihatan begitu tegar hatinya, adalah orang yang sangat lemah dan butuh pertolongan? &lt;a href=&quot;http://search.twitter.com/search?q=%23random&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#random');&quot;&gt;#&lt;b&gt;random&lt;/b&gt;&lt;/a&gt;</content>
+    <updated>2010-10-21T01:15:39Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/1143002316/IMG02536-20101012-1812_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.ubertwitter.com/bb/download.php&quot; rel=&quot;nofollow&quot;&gt;&#220;berTwitter&lt;/a&gt;</twitter:source>
+    <twitter:lang>id</twitter:lang>
+    <author>
+      <name>devhiie_tan (Devhie)</name>
+      <uri>http://twitter.com/devhiie_tan</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:27983128486</id>
+    <published>2010-10-21T01:15:36Z</published>
+    <link type="text/html" href="http://twitter.com/awill216/statuses/27983128486" rel="alternate"/>
+    <title>Balto DJs r wack #random</title>
+    <content type="html">Balto DJs r wack &lt;a href=&quot;http://search.twitter.com/search?q=%23random&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#random');&quot;&gt;#&lt;b&gt;random&lt;/b&gt;&lt;/a&gt;</content>
+    <updated>2010-10-21T01:15:36Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/260297321/AW_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.ubertwitter.com/bb/download.php&quot; rel=&quot;nofollow&quot;&gt;&#220;berTwitter&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>awill216 (Adarin Williamson)</name>
+      <uri>http://twitter.com/awill216</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:27983128080</id>
+    <published>2010-10-21T01:15:36Z</published>
+    <link type="text/html" href="http://twitter.com/MikeyMagnuson/statuses/27983128080" rel="alternate"/>
+    <title>Q: so...random question
+
+would you ever have ...A: I've thought about it but I think no is th...: http://yearbook.com/ask-me-anything/oren9</title>
+    <content type="html">Q: so...&lt;b&gt;random&lt;/b&gt; question
+
+would you ever have ...A: I&amp;apos;ve thought about it but I think no is th...: &lt;a href=&quot;http://yearbook.com/ask-me-anything/oren9&quot;&gt;http://yearbook.com/ask-me-anything/oren9&lt;/a&gt;</content>
+    <updated>2010-10-21T01:15:36Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/65498439/cort_blue_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.myyearbook.com/&quot; rel=&quot;nofollow&quot;&gt;myYearbook Share&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>MikeyMagnuson (MikeyMagnuson)</name>
+      <uri>http://twitter.com/MikeyMagnuson</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:27983127283</id>
+    <published>2010-10-21T01:15:35Z</published>
+    <link type="text/html" href="http://twitter.com/callykarishokka/statuses/27983127283" rel="alternate"/>
+    <title>*random dance*</title>
+    <content type="html">*&lt;b&gt;random&lt;/b&gt; dance*</content>
+    <updated>2010-10-21T01:15:35Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/1148871903/zombie2_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>eo</twitter:lang>
+    <author>
+      <name>callykarishokka (Cally Karishokka)</name>
+      <uri>http://twitter.com/callykarishokka</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:27983125068</id>
+    <published>2010-10-21T01:15:33Z</published>
+    <link type="text/html" href="http://twitter.com/French_ee/statuses/27983125068" rel="alternate"/>
+    <title>*random tweet* i have too wear underwear at all times i feel bear without em`</title>
+    <content type="html">*&lt;b&gt;random&lt;/b&gt; tweet* i have too wear underwear at all times i feel bear without em`</content>
+    <updated>2010-10-21T01:15:33Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/1136973532/paris2_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://tinyurl.com/tweetcaster&quot; rel=&quot;nofollow&quot;&gt;TweetCaster&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>French_ee (Paris Lewis)</name>
+      <uri>http://twitter.com/French_ee</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:27983123223</id>
+    <published>2010-10-21T01:15:32Z</published>
+    <link type="text/html" href="http://twitter.com/BREEZYLIGHTING/statuses/27983123223" rel="alternate"/>
+    <title>He's makin a list and checkin it twice gonna find out whose naughty or nice.... #random #Yeah3x</title>
+    <content type="html">He&amp;apos;s makin a list and checkin it twice gonna find out whose naughty or nice.... &lt;a href=&quot;http://search.twitter.com/search?q=%23random&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#random');&quot;&gt;#&lt;b&gt;random&lt;/b&gt;&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23Yeah3x&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#Yeah3x');&quot;&gt;#Yeah3x&lt;/a&gt;</content>
+    <updated>2010-10-21T01:15:32Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/1093152597/022eaf95-f3bf-4b4e-9fad-9c87c41a3ccd_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>BREEZYLIGHTING (Myia Bre)</name>
+      <uri>http://twitter.com/BREEZYLIGHTING</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:27983121440</id>
+    <published>2010-10-21T01:15:31Z</published>
+    <link type="text/html" href="http://twitter.com/Bizquel/statuses/27983121440" rel="alternate"/>
+    <title>No pense que algo Random me jodiera la noche :)</title>
+    <content type="html">No pense que algo &lt;b&gt;Random&lt;/b&gt; me jodiera la noche :)</content>
+    <updated>2010-10-21T01:15:31Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1143578326/DSCF3089_normal.JPG" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>es</twitter:lang>
+    <author>
+      <name>Bizquel (Biankarle TG)</name>
+      <uri>http://twitter.com/Bizquel</uri>
+    </author>
+  </entry>
+</feed>

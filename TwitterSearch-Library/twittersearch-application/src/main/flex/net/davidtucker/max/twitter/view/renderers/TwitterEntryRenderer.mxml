@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<s:ItemRenderer xmlns:fx="http://ns.adobe.com/mxml/2009"
+				xmlns:s="library://ns.adobe.com/flex/spark"
+				xmlns:mx="library://ns.adobe.com/flex/mx"
+				width="320"
+				height="85"
+				autoDrawBackground="false">
+
+	<fx:Declarations>
+		<!-- Place non-visual elements (e.g., services, value objects) here -->
+	</fx:Declarations>
+
+	<fx:Script>
+		<![CDATA[
+			import net.davidtucker.max.twitter.vo.TwitterEntry;
+
+			[Bindable]
+			protected var entry:TwitterEntry;
+
+			override public function set data(value:Object):void
+			{
+				if (value is TwitterEntry)
+				{
+					entry=TwitterEntry(value);
+				}
+				else
+				{
+					entry=null;
+				}
+			}
+		]]>
+	</fx:Script>
+
+	<s:layout>
+		<s:BasicLayout/>
+	</s:layout>
+
+	<mx:Image source="{ entry.profileImageUrl }"
+			  height="60"
+			  width="60"
+			  top="2"
+			  left="5"
+			  useHandCursor="true"
+			  buttonMode="true"
+			  verticalCenter="0"/>
+
+	<s:Label text="{ entry.author.username } ({ entry.author.name })"
+			 top="8"
+			 left="75"
+			 color="0xCCCCCC"
+			 fontWeight="bold"/>
+	<mx:Text id="entryContent"
+			 htmlText="{ entry.content }"
+			 color="0xFFFFFF"
+			 right="5"
+			 left="75"
+			 top="20"
+			 verticalCenter="0"/>
+	<mx:Label htmlText="Sent from { entry.source }"
+			  bottom="3"
+			  left="75"
+			  color="0xCCCCCC"
+			  fontSize="10"/>
+
+	<s:Line width="100%"
+			height="1"
+			bottom="0">
+		<s:stroke>
+			<s:SolidColorStroke weight="1"
+								color="0x999999"/>
+		</s:stroke>
+	</s:Line>
+
+</s:ItemRenderer>

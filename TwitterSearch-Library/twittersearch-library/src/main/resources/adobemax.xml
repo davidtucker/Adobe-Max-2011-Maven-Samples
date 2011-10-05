@@ -1,0 +1,313 @@
+<feed xmlns:google="http://base.google.com/ns/1.0" xml:lang="en-US" xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:georss="http://www.georss.org/georss" xmlns="http://www.w3.org/2005/Atom" xmlns:twitter="http://api.twitter.com/">
+  <id>tag:search.twitter.com,2005:search/adobemax</id>
+  <link type="text/html" href="http://search.twitter.com/search?q=adobemax" rel="alternate"/>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=adobemax" rel="self"/>
+  <title>adobemax - Twitter Search</title>
+  <link type="application/opensearchdescription+xml" href="http://search.twitter.com/opensearch.xml" rel="search"/>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=adobemax&amp;since_id=27981807210" rel="refresh"/>
+  <twitter:warning>since_id removed for pagination.</twitter:warning>
+  <updated>2010-10-21T00:58:41Z</updated>
+  <openSearch:itemsPerPage>15</openSearch:itemsPerPage>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?max_id=27981807210&amp;page=2&amp;q=adobemax" rel="next"/>
+  <entry>
+    <id>tag:search.twitter.com,2005:27981807210</id>
+    <published>2010-10-21T00:58:41Z</published>
+    <link type="text/html" href="http://twitter.com/mindmillmedia/statuses/27981807210" rel="alternate"/>
+    <title>RT @adrocknaphobia: Oh snap! #VMWare standardizes on #Flex for their management consoles and is talking about it at #AdobeMAX! -- http://bit.ly/c3rVZC</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/adrocknaphobia&quot;&gt;@adrocknaphobia&lt;/a&gt;: Oh snap! &lt;a href=&quot;http://search.twitter.com/search?q=%23VMWare&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#VMWare');&quot;&gt;#VMWare&lt;/a&gt; standardizes on &lt;a href=&quot;http://search.twitter.com/search?q=%23Flex&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#Flex');&quot;&gt;#Flex&lt;/a&gt; for their management consoles and is talking about it at &lt;a href=&quot;http://search.twitter.com/search?q=%23AdobeMAX&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#AdobeMAX');&quot;&gt;#&lt;b&gt;AdobeMAX&lt;/b&gt;&lt;/a&gt;! -- &lt;a href=&quot;http://bit.ly/c3rVZC&quot;&gt;http://bit.ly/c3rVZC&lt;/a&gt;</content>
+    <updated>2010-10-21T00:58:41Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/36777752/david-headshot__Small__normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>mindmillmedia (David Tucker)</name>
+      <uri>http://twitter.com/mindmillmedia</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:27981432222</id>
+    <published>2010-10-21T00:53:47Z</published>
+    <link type="text/html" href="http://twitter.com/josephlabrecque/statuses/27981432222" rel="alternate"/>
+    <title>From this morning -&gt; My Adobe MAX 2010 Agenda: http://bit.ly/8XtCNy &lt;- Track me down at #AdobeMAX</title>
+    <content type="html">From this morning -&amp;gt; My Adobe MAX 2010 Agenda: &lt;a href=&quot;http://bit.ly/8XtCNy&quot;&gt;http://bit.ly/8XtCNy&lt;/a&gt; &amp;lt;- Track me down at &lt;a href=&quot;http://search.twitter.com/search?q=%23AdobeMAX&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#AdobeMAX');&quot;&gt;#&lt;b&gt;AdobeMAX&lt;/b&gt;&lt;/a&gt;</content>
+    <updated>2010-10-21T00:53:47Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/1068000311/Joseph_0610_250sq_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>josephlabrecque (Joseph Labrecque)</name>
+      <uri>http://twitter.com/josephlabrecque</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:27980719056</id>
+    <published>2010-10-21T00:44:41Z</published>
+    <link type="text/html" href="http://twitter.com/ChrisGriffith/statuses/27980719056" rel="alternate"/>
+    <title>Finished designing some secret giveways for #AdobeMAX.</title>
+    <content type="html">Finished designing some secret giveways for &lt;a href=&quot;http://search.twitter.com/search?q=%23AdobeMAX&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#AdobeMAX');&quot;&gt;#&lt;b&gt;AdobeMAX&lt;/b&gt;&lt;/a&gt;.</content>
+    <updated>2010-10-21T00:44:41Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/760481629/chris_griffith_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>ChrisGriffith (Chris Griffith)</name>
+      <uri>http://twitter.com/ChrisGriffith</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:27980384334</id>
+    <published>2010-10-21T00:39:34Z</published>
+    <link type="text/html" href="http://twitter.com/Vonster/statuses/27980384334" rel="alternate"/>
+    <title>RT @justinahrens: @vonster and my talk for #adobemax  is going to be sweet. Come check out our session</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/justinahrens&quot;&gt;@justinahrens&lt;/a&gt;: &lt;a href=&quot;http://twitter.com/vonster&quot;&gt;@vonster&lt;/a&gt; and my talk for &lt;a href=&quot;http://search.twitter.com/search?q=%23adobemax&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#adobemax');&quot;&gt;#&lt;b&gt;adobemax&lt;/b&gt;&lt;/a&gt;  is going to be sweet. Come check out our session</content>
+    <updated>2010-10-21T00:39:34Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/1119890433/vonbrand_avatar_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>Vonster (Von Glitschka)</name>
+      <uri>http://twitter.com/Vonster</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:27980062569</id>
+    <published>2010-10-21T00:35:33Z</published>
+    <link type="text/html" href="http://twitter.com/JoonHa/statuses/27980062569" rel="alternate"/>
+    <title>RT @benforta: But wait, there's more! #AdobeMAX attendees get free 3 month subscription of Acrobat.com and new SendNow service</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/benforta&quot;&gt;@benforta&lt;/a&gt;: But wait, there&amp;apos;s more! &lt;a href=&quot;http://search.twitter.com/search?q=%23AdobeMAX&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#AdobeMAX');&quot;&gt;#&lt;b&gt;AdobeMAX&lt;/b&gt;&lt;/a&gt; attendees get free 3 month subscription of Acrobat.com and new SendNow service</content>
+    <updated>2010-10-21T00:35:33Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/657795413/aa11_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>JoonHa (Lee.JoonHa)</name>
+      <uri>http://twitter.com/JoonHa</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:27979669688</id>
+    <published>2010-10-21T00:30:25Z</published>
+    <link type="text/html" href="http://twitter.com/awest/statuses/27979669688" rel="alternate"/>
+    <title>RT @adrocknaphobia: Oh snap! #VMWare standardizes on #Flex for their management consoles and is talking about it at #AdobeMAX! -- http://bit.ly/c3rVZC</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/adrocknaphobia&quot;&gt;@adrocknaphobia&lt;/a&gt;: Oh snap! &lt;a href=&quot;http://search.twitter.com/search?q=%23VMWare&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#VMWare');&quot;&gt;#VMWare&lt;/a&gt; standardizes on &lt;a href=&quot;http://search.twitter.com/search?q=%23Flex&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#Flex');&quot;&gt;#Flex&lt;/a&gt; for their management consoles and is talking about it at &lt;a href=&quot;http://search.twitter.com/search?q=%23AdobeMAX&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#AdobeMAX');&quot;&gt;#&lt;b&gt;AdobeMAX&lt;/b&gt;&lt;/a&gt;! -- &lt;a href=&quot;http://bit.ly/c3rVZC&quot;&gt;http://bit.ly/c3rVZC&lt;/a&gt;</content>
+    <updated>2010-10-21T00:30:25Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/1076898332/AaronWestSocialPhoto-7-13-2010_Mix_150_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>awest (Aaron West)</name>
+      <uri>http://twitter.com/awest</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:27979585693</id>
+    <published>2010-10-21T00:29:21Z</published>
+    <link type="text/html" href="http://twitter.com/adobemax/statuses/27979585693" rel="alternate"/>
+    <title>Technoracle (aka @Duanechaos) shares the rest of his Livecycle picks before #AdobeMAX http://bit.ly/bztfaV</title>
+    <content type="html">Technoracle (aka &lt;a href=&quot;http://twitter.com/Duanechaos&quot;&gt;@Duanechaos&lt;/a&gt;) shares the rest of his Livecycle picks before &lt;a href=&quot;http://search.twitter.com/search?q=%23AdobeMAX&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#AdobeMAX');&quot;&gt;#&lt;b&gt;AdobeMAX&lt;/b&gt;&lt;/a&gt; &lt;a href=&quot;http://bit.ly/bztfaV&quot;&gt;http://bit.ly/bztfaV&lt;/a&gt;</content>
+    <updated>2010-10-21T00:29:21Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/895246140/MAX10_Grey_twitter_73X73_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>adobemax (Adobe MAX)</name>
+      <uri>http://twitter.com/adobemax</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:27978307996</id>
+    <published>2010-10-21T00:12:58Z</published>
+    <link type="text/html" href="http://twitter.com/justinahrens/statuses/27978307996" rel="alternate"/>
+    <title>@vonster and my talk for #adobemax  is going to be sweet. Come check out our session</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/vonster&quot;&gt;@vonster&lt;/a&gt; and my talk for &lt;a href=&quot;http://search.twitter.com/search?q=%23adobemax&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#adobemax');&quot;&gt;#&lt;b&gt;adobemax&lt;/b&gt;&lt;/a&gt;  is going to be sweet. Come check out our session</content>
+    <updated>2010-10-21T00:12:58Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/278747830/justin_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>justinahrens (Justin Ahrens)</name>
+      <uri>http://twitter.com/justinahrens</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:27978066355</id>
+    <published>2010-10-21T00:09:51Z</published>
+    <link type="text/html" href="http://twitter.com/adobe_aus/statuses/27978066355" rel="alternate"/>
+    <title>Ever wonder about the future of mobile content? Join a panel of content  producers at #AdobeMAX http://bit.ly/bH2MJq</title>
+    <content type="html">Ever wonder about the future of mobile content? Join a panel of content  producers at &lt;a href=&quot;http://search.twitter.com/search?q=%23AdobeMAX&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#AdobeMAX');&quot;&gt;#&lt;b&gt;AdobeMAX&lt;/b&gt;&lt;/a&gt; &lt;a href=&quot;http://bit.ly/bH2MJq&quot;&gt;http://bit.ly/bH2MJq&lt;/a&gt;</content>
+    <updated>2010-10-21T00:09:51Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/1062857581/untitled_normal.JPG" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>adobe_aus (adobe australia)</name>
+      <uri>http://twitter.com/adobe_aus</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:27976556934</id>
+    <published>2010-10-20T23:50:39Z</published>
+    <link type="text/html" href="http://twitter.com/adobe_aus/statuses/27976556934" rel="alternate"/>
+    <title>Congratulations to @HBO, Entertainment category finalist in 2010 #AdobeMAX Awards. Vote for winner @ http://bit.ly/MAXvote</title>
+    <content type="html">Congratulations to &lt;a href=&quot;http://twitter.com/HBO&quot;&gt;@HBO&lt;/a&gt;, Entertainment category finalist in 2010 &lt;a href=&quot;http://search.twitter.com/search?q=%23AdobeMAX&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#AdobeMAX');&quot;&gt;#&lt;b&gt;AdobeMAX&lt;/b&gt;&lt;/a&gt; Awards. Vote for winner @ &lt;a href=&quot;http://bit.ly/MAXvote&quot;&gt;http://bit.ly/MAXvote&lt;/a&gt;</content>
+    <updated>2010-10-20T23:50:39Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/1062857581/untitled_normal.JPG" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>adobe_aus (adobe australia)</name>
+      <uri>http://twitter.com/adobe_aus</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:27976023118</id>
+    <published>2010-10-20T23:43:51Z</published>
+    <link type="text/html" href="http://twitter.com/lkilpatrick/statuses/27976023118" rel="alternate"/>
+    <title>@adrocknaphobia hey by the way I am coming to #AdobeMax and I tweet as @VMware too :)</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/adrocknaphobia&quot;&gt;@adrocknaphobia&lt;/a&gt; hey by the way I am coming to &lt;a href=&quot;http://search.twitter.com/search?q=%23AdobeMax&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#AdobeMax');&quot;&gt;#&lt;b&gt;AdobeMax&lt;/b&gt;&lt;/a&gt; and I tweet as &lt;a href=&quot;http://twitter.com/VMware&quot;&gt;@VMware&lt;/a&gt; too :)</content>
+    <updated>2010-10-20T23:43:51Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/1110053381/LukeProShot_normal.jpg" rel="image"/>
+    <twitter:geo>
+<georss:point>37.3867 -122.1545</georss:point>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://tweed.pivotallabs.com&quot; rel=&quot;nofollow&quot;&gt;Tweed webOS&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>lkilpatrick (Luke Kilpatrick)</name>
+      <uri>http://twitter.com/lkilpatrick</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:27975930764</id>
+    <published>2010-10-20T23:42:40Z</published>
+    <link type="text/html" href="http://twitter.com/ChrisGriffith/statuses/27975930764" rel="alternate"/>
+    <title>RT @josephlabrecque: Seriously - do not neglect the great #AdobeMAX Unconference sessions this year!!!</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/josephlabrecque&quot;&gt;@josephlabrecque&lt;/a&gt;: Seriously - do not neglect the great &lt;a href=&quot;http://search.twitter.com/search?q=%23AdobeMAX&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#AdobeMAX');&quot;&gt;#&lt;b&gt;AdobeMAX&lt;/b&gt;&lt;/a&gt; Unconference sessions this year!!!</content>
+    <updated>2010-10-20T23:42:40Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/760481629/chris_griffith_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>ChrisGriffith (Chris Griffith)</name>
+      <uri>http://twitter.com/ChrisGriffith</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:27975854436</id>
+    <published>2010-10-20T23:41:42Z</published>
+    <link type="text/html" href="http://twitter.com/vmware/statuses/27975854436" rel="alternate"/>
+    <title>@adrocknaphobia by the way its #VMware looking forward to seeing you at #AdobeMax - we are hiring #Flex Developers too! See @VMwareCareers !</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/adrocknaphobia&quot;&gt;@adrocknaphobia&lt;/a&gt; by the way its &lt;a href=&quot;http://search.twitter.com/search?q=%23VMware&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#VMware');&quot;&gt;#VMware&lt;/a&gt; looking forward to seeing you at &lt;a href=&quot;http://search.twitter.com/search?q=%23AdobeMax&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#AdobeMax');&quot;&gt;#&lt;b&gt;AdobeMax&lt;/b&gt;&lt;/a&gt; - we are hiring &lt;a href=&quot;http://search.twitter.com/search?q=%23Flex&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#Flex');&quot;&gt;#Flex&lt;/a&gt; Developers too! See &lt;a href=&quot;http://twitter.com/VMwareCareers&quot;&gt;@VMwareCareers&lt;/a&gt; !</content>
+    <updated>2010-10-20T23:41:42Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/881881796/icon-vmware_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://tweed.pivotallabs.com&quot; rel=&quot;nofollow&quot;&gt;Tweed webOS&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>vmware (VMware)</name>
+      <uri>http://twitter.com/vmware</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:27975828923</id>
+    <published>2010-10-20T23:41:22Z</published>
+    <link type="text/html" href="http://twitter.com/BrunoFonzi/statuses/27975828923" rel="alternate"/>
+    <title>@oscartrelles believe it or not, I have not booked anything yet for #AdobeMAX waiting for a surprise from Adobe, hope they are listening ;)</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/oscartrelles&quot;&gt;@oscartrelles&lt;/a&gt; believe it or not, I have not booked anything yet for &lt;a href=&quot;http://search.twitter.com/search?q=%23AdobeMAX&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#AdobeMAX');&quot;&gt;#&lt;b&gt;AdobeMAX&lt;/b&gt;&lt;/a&gt; waiting for a surprise from Adobe, hope they are listening ;)</content>
+    <updated>2010-10-20T23:41:22Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/780493543/twitterProfilePhoto_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>BrunoFonzi (Bruno Fonzi)</name>
+      <uri>http://twitter.com/BrunoFonzi</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:27975706067</id>
+    <published>2010-10-20T23:39:49Z</published>
+    <link type="text/html" href="http://twitter.com/vmware/statuses/27975706067" rel="alternate"/>
+    <title>RT @adrocknaphobia: #VMWare standardizes on #Flex for their management consoles and is talking about it at #AdobeMAX! -http://bit.ly/c3rVZC</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/adrocknaphobia&quot;&gt;@adrocknaphobia&lt;/a&gt;: &lt;a href=&quot;http://search.twitter.com/search?q=%23VMWare&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#VMWare');&quot;&gt;#VMWare&lt;/a&gt; standardizes on &lt;a href=&quot;http://search.twitter.com/search?q=%23Flex&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#Flex');&quot;&gt;#Flex&lt;/a&gt; for their management consoles and is talking about it at &lt;a href=&quot;http://search.twitter.com/search?q=%23AdobeMAX&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#AdobeMAX');&quot;&gt;#&lt;b&gt;AdobeMAX&lt;/b&gt;&lt;/a&gt;! -&lt;a href=&quot;http://bit.ly/c3rVZC&quot;&gt;http://bit.ly/c3rVZC&lt;/a&gt;</content>
+    <updated>2010-10-20T23:39:49Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/881881796/icon-vmware_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://tweed.pivotallabs.com&quot; rel=&quot;nofollow&quot;&gt;Tweed webOS&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>vmware (VMware)</name>
+      <uri>http://twitter.com/vmware</uri>
+    </author>
+  </entry>
+</feed>

@@ -1,0 +1,314 @@
+<feed xmlns:google="http://base.google.com/ns/1.0" xml:lang="en-US" xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:twitter="http://api.twitter.com/">
+  <id>tag:search.twitter.com,2005:search/breakingnews</id>
+  <link type="text/html" href="http://search.twitter.com/search?q=breakingnews" rel="alternate"/>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=breakingnews" rel="self"/>
+  <title>breakingnews - Twitter Search</title>
+  <link type="application/opensearchdescription+xml" href="http://search.twitter.com/opensearch.xml" rel="search"/>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=breakingnews&amp;since_id=27982949430" rel="refresh"/>
+  <twitter:warning>since_id removed for pagination.</twitter:warning>
+  <updated>2010-10-21T01:13:17Z</updated>
+  <openSearch:itemsPerPage>15</openSearch:itemsPerPage>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?max_id=27982949430&amp;page=2&amp;q=breakingnews" rel="next"/>
+  <entry>
+    <id>tag:search.twitter.com,2005:27982949430</id>
+    <published>2010-10-21T01:13:17Z</published>
+    <link type="text/html" href="http://twitter.com/AremaFc/statuses/27982949430" rel="alternate"/>
+    <title>Lbh baik dari tim senior :) RT @IndoSoccer: #BreakingNews: hasil ujicoba: SAD Indonesia kalah 3-1 dari U-19 Uruguay.</title>
+    <content type="html">Lbh baik dari tim senior :) RT &lt;a href=&quot;http://twitter.com/IndoSoccer&quot;&gt;@IndoSoccer&lt;/a&gt;: &lt;a href=&quot;http://search.twitter.com/search?q=%23BreakingNews&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#BreakingNews');&quot;&gt;#&lt;b&gt;BreakingNews&lt;/b&gt;&lt;/a&gt;: hasil ujicoba: SAD Indonesia kalah 3-1 dari U-19 Uruguay.</content>
+    <updated>2010-10-21T01:13:17Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1099471786/logo_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.ubertwitter.com/bb/download.php&quot; rel=&quot;nofollow&quot;&gt;&#220;berTwitter&lt;/a&gt;</twitter:source>
+    <twitter:lang>id</twitter:lang>
+    <author>
+      <name>AremaFc (Arema Indonesia FC)</name>
+      <uri>http://twitter.com/AremaFc</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:27982925248</id>
+    <published>2010-10-21T01:12:58Z</published>
+    <link type="text/html" href="http://twitter.com/nurainipow/statuses/27982925248" rel="alternate"/>
+    <title>RT @stcom: A woman pronounced 'very certainly clinically dead' at a French hospital woke up hours later http://bit.ly/d2yesW</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/stcom&quot;&gt;@stcom&lt;/a&gt;: A woman pronounced &amp;apos;very certainly clinically dead&amp;apos; at a French hospital woke up hours later &lt;a href=&quot;http://bit.ly/d2yesW&quot;&gt;http://bit.ly/d2yesW&lt;/a&gt;</content>
+    <updated>2010-10-21T01:12:58Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/265119275/PinkDot1_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>nurainipow (Nuraini Pow)</name>
+      <uri>http://twitter.com/nurainipow</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:27982922732</id>
+    <published>2010-10-21T01:12:56Z</published>
+    <link type="text/html" href="http://twitter.com/MomaLouise/statuses/27982922732" rel="alternate"/>
+    <title>RT @stcom: A man who raped his 5 daughters, one of whom bore him a child, was found guilty on all 8 counts in the 1st of 5 trials http://is.gd/gar4p</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/stcom&quot;&gt;@stcom&lt;/a&gt;: A man who raped his 5 daughters, one of whom bore him a child, was found guilty on all 8 counts in the 1st of 5 trials &lt;a href=&quot;http://is.gd/gar4p&quot;&gt;http://is.gd/gar4p&lt;/a&gt;</content>
+    <updated>2010-10-21T01:12:56Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/899206470/Photo0613_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>MomaLouise (Louise Koh)</name>
+      <uri>http://twitter.com/MomaLouise</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:27982891829</id>
+    <published>2010-10-21T01:12:32Z</published>
+    <link type="text/html" href="http://twitter.com/TweetAddMatic/statuses/27982891829" rel="alternate"/>
+    <title>TweetAddMatic GOP leader hopes to work with Obama on some issues (AP) AP - The Senate 's top Republican say breakingnews http://tiny.ly/AnvB</title>
+    <content type="html">TweetAddMatic GOP leader hopes to work with Obama on some issues (AP) AP - The Senate &amp;apos;s top Republican say &lt;b&gt;breakingnews&lt;/b&gt; &lt;a href=&quot;http://tiny.ly/AnvB&quot;&gt;http://tiny.ly/AnvB&lt;/a&gt;</content>
+    <updated>2010-10-21T01:12:32Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/1146434551/twitter-software_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>TweetAddMatic (TweetAddOMatic)</name>
+      <uri>http://twitter.com/TweetAddMatic</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:27982867324</id>
+    <published>2010-10-21T01:12:13Z</published>
+    <link type="text/html" href="http://twitter.com/hungryepicurean/statuses/27982867324" rel="alternate"/>
+    <title>RT @skinnyepicurean: Really?  Iggy's tops Miele Guide again
+http://www.straitstimes.com/BreakingNews/Singapore/Story/STIStory_593136.html (via ST iPhone App)</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/skinnyepicurean&quot;&gt;@skinnyepicurean&lt;/a&gt;: Really?  Iggy&amp;apos;s tops Miele Guide again
+&lt;a href=&quot;http://www.straitstimes.com/BreakingNews/Singapore/Story/STIStory_593136.html&quot;&gt;http://www.straitstimes.com/&lt;b&gt;BreakingNews&lt;/b&gt;/Singapore/Story/STIStory_593136.html&lt;/a&gt; (via ST iPhone App)</content>
+    <updated>2010-10-21T01:12:13Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1148602690/40124_455372568152_510068152_5395088_4950374_n_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://straitstimes.com.sg&quot; rel=&quot;nofollow&quot;&gt;The Straits Times&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>hungryepicurean (Glenn Lee)</name>
+      <uri>http://twitter.com/hungryepicurean</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:27982829058</id>
+    <published>2010-10-21T01:11:42Z</published>
+    <link type="text/html" href="http://twitter.com/wKjA/statuses/27982829058" rel="alternate"/>
+    <title>Omg why he so disgusting one!!! Eeeyeer. http://is.gd/gar4p here's the link. What's e world coming to?!</title>
+    <content type="html">Omg why he so disgusting one!!! Eeeyeer. &lt;a href=&quot;http://is.gd/gar4p&quot;&gt;http://is.gd/gar4p&lt;/a&gt; here&amp;apos;s the link. What&amp;apos;s e world coming to?!</content>
+    <updated>2010-10-21T01:11:42Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/1143737483/193405888_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.ubertwitter.com/bb/download.php&quot; rel=&quot;nofollow&quot;&gt;&#220;berTwitter&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>wKjA (Winda K.)</name>
+      <uri>http://twitter.com/wKjA</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:27982827054</id>
+    <published>2010-10-21T01:11:40Z</published>
+    <link type="text/html" href="http://twitter.com/Militansi/statuses/27982827054" rel="alternate"/>
+    <title>RT @IndoSoccer: #BreakingNews: hasil ujicoba: SAD Indonesia kalah 3-1 dari U-19 Uruguay.</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/IndoSoccer&quot;&gt;@IndoSoccer&lt;/a&gt;: &lt;a href=&quot;http://search.twitter.com/search?q=%23BreakingNews&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#BreakingNews');&quot;&gt;#&lt;b&gt;BreakingNews&lt;/b&gt;&lt;/a&gt;: hasil ujicoba: SAD Indonesia kalah 3-1 dari U-19 Uruguay.</content>
+    <updated>2010-10-21T01:11:40Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1142938490/49215_100000213279836_5830_q_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://m.dabr.co.uk&quot; rel=&quot;nofollow&quot;&gt;Dabr&lt;/a&gt;</twitter:source>
+    <twitter:lang>id</twitter:lang>
+    <author>
+      <name>Militansi (Milad Yaumil Karim)</name>
+      <uri>http://twitter.com/Militansi</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:27982820921</id>
+    <published>2010-10-21T01:11:36Z</published>
+    <link type="text/html" href="http://twitter.com/SunVongsupas/statuses/27982820921" rel="alternate"/>
+    <title>RT @manageronlines: BreakingNews - &#3648;&#3627;&#3609;&#3639;&#3629;-&#3629;&#3637;&#3626;&#3634;&#3609;&#3613;&#3609;&#3621;&#3604;&#3649;&#3621;&#3632;&#3629;&#3634;&#3585;&#3634;&#3624;&#3648;&#3618;&#3655;&#3609;&#3621;&#3591;/&#3627;&#3621;&#3634;&#3618;&#3592;&#3623;.&#3609;&#3657;&#3635;&#3607;&#3656;&#3623;&#3617;&#3629;&#3634;&#3592;&#3617;&#3637;&#3613;&#3609;&#3648;&#3621;&#3655;&#3585;&#3609;&#3657;&#3629;&#3618;: &#3585;&#3619;&#3617;&#3629;&#3640;&#3605;&#3640;&#3609;&#3636;&#3618;&#3617;&#3623;&#3636;&#3607;&#3618;&#3634;&#3614;&#3618;&#3634;&#3585;&#3619;&#3603;&#3660;&#3629;&#3634;&#3585;&#3634;&#3624;&#3611;&#3619;&#3632;&#3592;&#3635;&#3623;&#3633;&#3609;&#3614;&#3620;... http://bit.ly/c8hW1x</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/manageronlines&quot;&gt;@manageronlines&lt;/a&gt;: &lt;b&gt;BreakingNews&lt;/b&gt; - &#3648;&#3627;&#3609;&#3639;&#3629;-&#3629;&#3637;&#3626;&#3634;&#3609;&#3613;&#3609;&#3621;&#3604;&#3649;&#3621;&#3632;&#3629;&#3634;&#3585;&#3634;&#3624;&#3648;&#3618;&#3655;&#3609;&#3621;&#3591;/&#3627;&#3621;&#3634;&#3618;&#3592;&#3623;.&#3609;&#3657;&#3635;&#3607;&#3656;&#3623;&#3617;&#3629;&#3634;&#3592;&#3617;&#3637;&#3613;&#3609;&#3648;&#3621;&#3655;&#3585;&#3609;&#3657;&#3629;&#3618;: &#3585;&#3619;&#3617;&#3629;&#3640;&#3605;&#3640;&#3609;&#3636;&#3618;&#3617;&#3623;&#3636;&#3607;&#3618;&#3634;&#3614;&#3618;&#3634;&#3585;&#3619;&#3603;&#3660;&#3629;&#3634;&#3585;&#3634;&#3624;&#3611;&#3619;&#3632;&#3592;&#3635;&#3623;&#3633;&#3609;&#3614;&#3620;... &lt;a href=&quot;http://bit.ly/c8hW1x&quot;&gt;http://bit.ly/c8hW1x&lt;/a&gt;</content>
+    <updated>2010-10-21T01:11:36Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/1122121765/image_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitterfeed.com&quot; rel=&quot;nofollow&quot;&gt;twitterfeed&lt;/a&gt;</twitter:source>
+    <twitter:lang>th</twitter:lang>
+    <author>
+      <name>SunVongsupas (Sun Vongsupas)</name>
+      <uri>http://twitter.com/SunVongsupas</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:27982819845</id>
+    <published>2010-10-21T01:11:35Z</published>
+    <link type="text/html" href="http://twitter.com/starryxuan/statuses/27982819845" rel="alternate"/>
+    <title>RT A man who raped his 5 daughters, one of whom bore him a child, was found guilty on all 8 counts in the 1st of 5 trials http://is.gd/gar4p</title>
+    <content type="html">RT A man who raped his 5 daughters, one of whom bore him a child, was found guilty on all 8 counts in the 1st of 5 trials &lt;a href=&quot;http://is.gd/gar4p&quot;&gt;http://is.gd/gar4p&lt;/a&gt;</content>
+    <updated>2010-10-21T01:11:35Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/1147177335/P1100884_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.ubertwitter.com/bb/download.php&quot; rel=&quot;nofollow&quot;&gt;&#220;berTwitter&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>starryxuan (&#9829; xuanie)</name>
+      <uri>http://twitter.com/starryxuan</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:27982804803</id>
+    <published>2010-10-21T01:11:23Z</published>
+    <link type="text/html" href="http://twitter.com/TeamFeedOffRap/statuses/27982804803" rel="alternate"/>
+    <title>#breakingnews.. kinda sorta.. Rihanna : Signs To Roc Nation &gt;&gt;&gt; http://bit.ly/9hZlDF</title>
+    <content type="html">&lt;a href=&quot;http://search.twitter.com/search?q=%23breakingnews&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#breakingnews');&quot;&gt;#&lt;b&gt;breakingnews&lt;/b&gt;&lt;/a&gt;.. kinda sorta.. Rihanna : Signs To Roc Nation &amp;gt;&amp;gt;&amp;gt; &lt;a href=&quot;http://bit.ly/9hZlDF&quot;&gt;http://bit.ly/9hZlDF&lt;/a&gt;</content>
+    <updated>2010-10-21T01:11:23Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/987796348/feedoffrap_whiteback_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://tweetmeme.com&quot; rel=&quot;nofollow&quot;&gt;TweetMeme&lt;/a&gt;</twitter:source>
+    <twitter:lang>no</twitter:lang>
+    <author>
+      <name>TeamFeedOffRap (FEEDOFFRAP.com)</name>
+      <uri>http://twitter.com/TeamFeedOffRap</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:27982803120</id>
+    <published>2010-10-21T01:11:22Z</published>
+    <link type="text/html" href="http://twitter.com/eribuddy/statuses/27982803120" rel="alternate"/>
+    <title>Wah...lumayan..dr pada seniornyaRT @IndoSoccer: #BreakingNews: hasil ujicoba: SAD Indonesia kalah 3-1 dari U-19 Uruguay.</title>
+    <content type="html">Wah...lumayan..dr pada seniornyaRT &lt;a href=&quot;http://twitter.com/IndoSoccer&quot;&gt;@IndoSoccer&lt;/a&gt;: &lt;a href=&quot;http://search.twitter.com/search?q=%23BreakingNews&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#BreakingNews');&quot;&gt;#&lt;b&gt;BreakingNews&lt;/b&gt;&lt;/a&gt;: hasil ujicoba: SAD Indonesia kalah 3-1 dari U-19 Uruguay.</content>
+    <updated>2010-10-21T01:11:22Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/1147352331/28391_390629399034_778364034_3810091_3881136_n_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.snaptu.com&quot; rel=&quot;nofollow&quot;&gt;Snaptu.com&lt;/a&gt;</twitter:source>
+    <twitter:lang>id</twitter:lang>
+    <author>
+      <name>eribuddy (eri rahardi)</name>
+      <uri>http://twitter.com/eribuddy</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:27982759273</id>
+    <published>2010-10-21T01:10:47Z</published>
+    <link type="text/html" href="http://twitter.com/ANTOandINE/statuses/27982759273" rel="alternate"/>
+    <title>Berarti emg lebih baik dr senioornya#nurdinturun..RT @IndoSoccer: #BreakingNews: hasil ujicoba: SAD Indonesia kalah 3-1 dari U-19 Uruguay.</title>
+    <content type="html">Berarti emg lebih baik dr senioornya#nurdinturun..RT &lt;a href=&quot;http://twitter.com/IndoSoccer&quot;&gt;@IndoSoccer&lt;/a&gt;: &lt;a href=&quot;http://search.twitter.com/search?q=%23BreakingNews&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#BreakingNews');&quot;&gt;#&lt;b&gt;BreakingNews&lt;/b&gt;&lt;/a&gt;: hasil ujicoba: SAD Indonesia kalah 3-1 dari U-19 Uruguay.</content>
+    <updated>2010-10-21T01:10:47Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/1092948420/IMG00265-20100613-1051_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.ubertwitter.com/bb/download.php&quot; rel=&quot;nofollow&quot;&gt;&#220;berTwitter&lt;/a&gt;</twitter:source>
+    <twitter:lang>id</twitter:lang>
+    <author>
+      <name>ANTOandINE (Achmad Novianto)</name>
+      <uri>http://twitter.com/ANTOandINE</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:27982750764</id>
+    <published>2010-10-21T01:10:41Z</published>
+    <link type="text/html" href="http://twitter.com/SunKissedWun/statuses/27982750764" rel="alternate"/>
+    <title>#BREAKINGNEWS somali boy just met Nicki Minaj, he wanted her autograph but had no paper for her to sign..so she signed his 9 finger fo'head.</title>
+    <content type="html">&lt;a href=&quot;http://search.twitter.com/search?q=%23BREAKINGNEWS&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#BREAKINGNEWS');&quot;&gt;#&lt;b&gt;BREAKINGNEWS&lt;/b&gt;&lt;/a&gt; somali boy just met Nicki Minaj, he wanted her autograph but had no paper for her to sign..so she signed his 9 finger fo&amp;apos;head.</content>
+    <updated>2010-10-21T01:10:41Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/1142052059/IMG00371-20101007-1721_1__normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.ubertwitter.com/bb/download.php&quot; rel=&quot;nofollow&quot;&gt;&#220;berTwitter&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>SunKissedWun (Sadeeyeah)</name>
+      <uri>http://twitter.com/SunKissedWun</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:27982750190</id>
+    <published>2010-10-21T01:10:40Z</published>
+    <link type="text/html" href="http://twitter.com/SammyBabygirl/statuses/27982750190" rel="alternate"/>
+    <title>Good. RT @BreakingNews: Va. man who threatened 'South Park' creators pleads guilty to supporting Somali terrorists</title>
+    <content type="html">Good. RT &lt;a href=&quot;http://twitter.com/BreakingNews&quot;&gt;@&lt;b&gt;BreakingNews&lt;/b&gt;&lt;/a&gt;: Va. man who threatened &amp;apos;South Park&amp;apos; creators pleads guilty to supporting Somali terrorists</content>
+    <updated>2010-10-21T01:10:40Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/1126081995/Prince-Love-Symbol---Dis-16035_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.qwitter-client.net&quot; rel=&quot;nofollow&quot;&gt;Qwitter Client&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>SammyBabygirl (Sammy)</name>
+      <uri>http://twitter.com/SammyBabygirl</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:27982707554</id>
+    <published>2010-10-21T01:10:08Z</published>
+    <link type="text/html" href="http://twitter.com/CodeOConduct/statuses/27982707554" rel="alternate"/>
+    <title>Fire reported at Orlando Econo Lodge: But though &#8220;Undercover Boss&#8221; found maintenance problems, customer satisfacti... http://bit.ly/bLswUr</title>
+    <content type="html">Fire reported at Orlando Econo Lodge: But though &#8220;Undercover Boss&#8221; found maintenance problems, customer satisfacti... &lt;a href=&quot;http://bit.ly/bLswUr&quot;&gt;http://bit.ly/bLswUr&lt;/a&gt;</content>
+    <updated>2010-10-21T01:10:08Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/873855497/Code_Of_Conduct_normal.gif" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitterfeed.com&quot; rel=&quot;nofollow&quot;&gt;twitterfeed&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>CodeOConduct (Bertromavich Reibold)</name>
+      <uri>http://twitter.com/CodeOConduct</uri>
+    </author>
+  </entry>
+</feed>
