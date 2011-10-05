@@ -1,0 +1,8 @@
+Configuring Your System for Maven and Flex-Mojos
+================================================
+
+There is a little configuration that is required on your system to properly work with Flex-Mojos.  These two steps will be the prerequisites for working with the other projects in the repository:
+
+* **Configuring Maven** Maven has a single configuration file that allows you to define which repositories you will connect to as well as many other settings that dictate how Maven will behave across all of your projects.  The `settings.xml` file in this directory is a sample Maven configuration file that is setup for Flex-mojos.  On Mac, your configuration file can be found at `~/.m2/settings.xml`.  You can replace that file with the one included here.
+
+* **Configuring the Flash Player** Unit testing in Maven is a first class citizen.  For Maven to test your Flex project, it needs a copy of the Flash Player debugger standalone version to be able to execute (which can be done on a headless environment - but that is beyond the scope of this talk).  You need to download the Flash Player debugger standalone version from here: [Flash Player Downloads](http://www.adobe.com/support/flashplayer/downloads.html).  After that, you need to place the executable for this on your PATH.  For more information on this, see [Running Unit Tests on Flex-Mojos](https://docs.sonatype.org/display/FLEXMOJOS/Running+unit+tests).
